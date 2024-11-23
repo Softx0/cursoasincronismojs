@@ -1,0 +1,23 @@
+{
+  "name": "cursoasincronismojs",
+  "version": "1.0.0",
+  "description": "this project is study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://softx0@github.com/Softx0/cursoasincronismojs.git"
+  },
+  "keywords": [
+    "js",
+    "asincronismo"
+  ],
+  "author": "Eduardo Valenzuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Softx0/cursoasincronismojs/issues"
+  },
+  "homepage": "https://github.com/Softx0/cursoasincronismojs#readme"
+}
