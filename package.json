@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Softx0/cursoasincronismojs/issues"
   },
-  "homepage": "https://github.com/Softx0/cursoasincronismojs#readme"
+  "homepage": "https://github.com/Softx0/cursoasincronismojs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
